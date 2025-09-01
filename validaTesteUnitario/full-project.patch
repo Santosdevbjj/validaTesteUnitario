@@ -1,17 +1,1 @@
-README.md                                 |  6 ++++++
- validaTesteUnitario.sln                   |  2 ++
- src/ValidacoesConsole/ValidacoesConsole.csproj | 14 ++++++++++--
- src/ValidacoesConsole/ValidacoesLista.cs       | 49 ++++++++++++++++++++++++++++++++++++++++++++++
- src/ValidacoesConsole/ValidacoesString.cs      | 43 +++++++++++++++++++++++++++++++++++++++++
- tests/ValidacoesConsole.Tests/ValidacoesConsole.Tests.csproj | 21 +++++++++++++
- tests/ValidacoesConsole.Tests/ValidacoesListaTests.cs         | 61 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
- tests/ValidacoesConsole.Tests/ValidacoesStringTests.cs        | 57 ++++++++++++++++++++++++++++++++++++++++++++++++
- 8 files changed, 253 insertions(+), 0 deletions(-)
- create mode 100644 README.md
- create mode 100644 validaTesteUnitario.sln
- create mode 100644 src/ValidacoesConsole/ValidacoesConsole.csproj
- create mode 100644 src/ValidacoesConsole/ValidacoesLista.cs
- create mode 100644 src/ValidacoesConsole/ValidacoesString.cs
- create mode 100644 tests/ValidacoesConsole.Tests/ValidacoesConsole.Tests.csproj
- create mode 100644 tests/ValidacoesConsole.Tests/ValidacoesListaTests.cs
- create mode 100644 tests/ValidacoesConsole.Tests/ValidacoesStringTests.cs
+
