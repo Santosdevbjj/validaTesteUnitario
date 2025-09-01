@@ -1,3 +1,6 @@
+--- /dev/null
++++ tests/ValidacoesConsole.Tests/ValidacoesListaTests.cs
+@@ -0,0 +1,61 @@
 using System;
 using System.Collections.Generic;
 using Xunit;
