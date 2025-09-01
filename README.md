@@ -8,9 +8,12 @@
 
 **Bootcamp WEX - Desenvolvimento .NET e QA**
 
+---
 
 **DESCRIÇÃO**
 Neste desafio você utilizará seus conhecimentos adquiridos no módulo de Testes Unitários com c# da trilha de .NET.
+
+---
 
 **Estrutura do Repositório**
 
