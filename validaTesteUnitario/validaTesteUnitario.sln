@@ -1,0 +1,15 @@
+# Cria solução
+dotnet new sln -n validaTesteUnitario
+
+# Cria projeto de classe para lógica
+dotnet new classlib -n ValidacoesConsole -o src/ValidacoesConsole
+
+# Cria projeto de testes com xUnit
+dotnet new xunit -n ValidacoesConsole.Tests -o tests/ValidacoesConsole.Tests
+
+# Adiciona projetos à solução
+dotnet sln validaTesteUnitario.sln add src/ValidacoesConsole/ValidacoesConsole.csproj
+dotnet sln validaTesteUnitario.sln add tests/ValidacoesConsole.Tests/ValidacoesConsole.Tests.csproj
+
+# Adiciona referência do código no projeto de testes
+dotnet add tests/ValidacoesConsole.Tests/ValidacoesConsole.Tests.csproj reference src/ValidacoesConsole/ValidacoesConsole.csproj
