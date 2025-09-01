@@ -1,3 +1,6 @@
+--- /dev/null
++++ tests/ValidacoesConsole.Tests/ValidacoesStringTests.cs
+@@ -0,0 +1,57 @@
 using System;
 using Xunit;
 using ValidacoesConsole;
