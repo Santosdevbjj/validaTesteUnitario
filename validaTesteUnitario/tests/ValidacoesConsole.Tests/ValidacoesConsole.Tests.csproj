@@ -1,3 +1,6 @@
+--- /dev/null
++++ tests/ValidacoesConsole.Tests/ValidacoesConsole.Tests.csproj
+@@ -0,0 +1,21 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -7,16 +10,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <!-- SDK de teste que habilita dotnet test / VSTest -->
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
-    <!-- xUnit (escolha estável disponível no NuGet) -->
     <PackageReference Include="xunit" Version="2.9.3" />
-    <!-- Adapter/runner para Visual Studio / dotnet test -->
     <PackageReference Include="xunit.runner.visualstudio" Version="3.1.4" />
   </ItemGroup>
 
   <ItemGroup>
-    <!-- Referência ao projeto de produção -->
     <ProjectReference Include="..\..\src\ValidacoesConsole\ValidacoesConsole.csproj" />
   </ItemGroup>
 </Project>
