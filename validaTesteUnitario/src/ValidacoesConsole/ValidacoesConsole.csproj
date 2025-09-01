@@ -1,9 +1,9 @@
+--- /dev/null
++++ src/ValidacoesConsole/ValidacoesConsole.csproj
+@@ -0,0 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <!-- Alvo: .NET 8 (LTS) -->
     <TargetFramework>net8.0</TargetFramework>
-
-    <!-- Conveniências modernas -->
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
