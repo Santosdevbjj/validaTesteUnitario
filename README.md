@@ -18,7 +18,7 @@ Neste desafio você utilizará seus conhecimentos adquiridos no módulo de Teste
 **Estrutura do Repositório**
 
 
-<img width="1000" height="1297" alt="Screenshot_20250901-144138" src="https://github.com/user-attachments/assets/ce7060bf-10d0-447e-90c6-b25cf9d0cc08" />
+<img width="1011" height="1262" alt="Screenshot_20250901-145430" src="https://github.com/user-attachments/assets/19876a8d-7b9b-4176-b8f4-c74d8845a5a9" />
 
 
 ---
