@@ -1,3 +1,6 @@
+--- /dev/null
++++ src/ValidacoesConsole/ValidacoesString.cs
+@@ -0,0 +1,43 @@
 using System;
 
 namespace ValidacoesConsole
